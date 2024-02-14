@@ -1,5 +1,5 @@
 # Código do repositório
-O código presente apresenta a minha resolução/modificação do desafio de fundamentos do curso de .NET da DIO.\n
+O código presente apresenta a minha resolução/modificação do desafio de fundamentos do curso de .NET da DIO.
 A proposta do desafio foi feita no .NET 6.0 e portanto, está nessa versão.
 A seguir é o conteúdo original da proposta do desafio realizado pela DIO.
 
